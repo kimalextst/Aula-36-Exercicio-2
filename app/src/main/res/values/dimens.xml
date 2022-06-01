@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_200">200dp</dimen>
+    <dimen name="texto_16">16sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="texto_12">12sp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="texto_14">14sp</dimen>
+</resources>

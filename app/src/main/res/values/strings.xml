@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu Pet</string>
+    <string name="titulo_aplicacao">ESSA É A FOTO DO MEU PET</string>
+    <string name="nome_pet">Nome do pet: Kurama</string>
+    <string name="raca_pet">Raça pet: Raposa do Ártico</string>
+    <string name="idade_pet">Idade pet: 4 anos</string>
+    <string name="escrita_botao">MENSAGEM</string>
+</resources>
